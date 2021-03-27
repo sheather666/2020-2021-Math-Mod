@@ -43,7 +43,7 @@ section-titles: true
 
 Создал новый репозиторий на GitHub. На компьютере создал файл README.md и выгрузил файл на GitHub
 
-![Профиль GitHub](C:\Users\abdul\Desktop\mathmod\lab01\presentation\image\1.png){ #fig:001 width=70% }
+![Профиль GitHub](C:\Users\abdul\Desktop\mathmod\lab01\presentation\image_pres\1.png){ #fig:001 width=70% }
 
 ## SSH-ключ
 
@@ -51,7 +51,7 @@ section-titles: true
 
 - Подключился по ssh-ключу
 
-  ![Генерация и подключение к ssh-ключу](C:\Users\abdul\Desktop\mathmod\lab01\presentation\image\2.png){ #fig:002 width=70% }
+  ![Генерация и подключение к ssh-ключу](C:\Users\abdul\Desktop\mathmod\lab01\presentation\image_pres\2.png){ #fig:002 width=70% }
 
 # MarkDown
 
@@ -59,7 +59,7 @@ section-titles: true
 
 - Написал отчет на MarkDown по шаблону
 
-  ![Отчет на языке MarkDown](C:\Users\abdul\Desktop\mathmod\lab01\presentation\image\3.png){ #fig:003 width=70% }
+  ![Отчет на языке MarkDown](C:\Users\abdul\Desktop\mathmod\lab01\presentation\image_pres\3.png){ #fig:003 width=70% }
 
 ## Навыки в MarkDown
 
@@ -76,7 +76,7 @@ section-titles: true
 
 [Мой профиль GitHub](https://github.com/sheather666)
 
-**~~Так же научился форматировать текст.~~**
+***~~Так же научился форматировать текст.~~***
 
 ## {.standout}
 
