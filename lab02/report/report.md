@@ -138,9 +138,9 @@ $$ \frac{\partial r}{\partial θ} = \frac{r}{\sqrt{16.64}} $$
 
 \begin{equation*}
   \begin{cases}
-    θ_{0} = - $/pi$ 
+    θ_{0} = - \pi 
     \\ 
-    r_{0} = x_{2} = \frac{k}{3.2}k
+    r_{0} = x_{2} = \frac{k}{3.2}
   \end{cases}
 \end{equation*} 
 
